@@ -1,0 +1,62 @@
+{
+  "0": {
+    "model_name": "V3_partA",
+    "semantic_name": "the_yellow-black_piece",
+    "position": {
+      "x": -0.0001995683,
+      "y": 0.01991708,
+      "z": -0.2344108
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1.172054,
+      "y": 1.172054,
+      "z": 1.172054
+    },
+    "annotation": []
+  },
+  "1": {
+    "model_name": "V3_partB",
+    "semantic_name": "the_green-red_piece",
+    "position": {
+      "x": -0.09396391,
+      "y": 0.01991708,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1.172054,
+      "y": 1.172054,
+      "z": 1.172054
+    },
+    "annotation": ["top_left_corner"]
+  },
+  "2": {
+    "model_name": "V3_partC",
+    "semantic_name": "the_blue-black_piece",
+    "position": {
+      "x": -0.0001995683,
+      "y": 0.01991708,
+      "z": 0.2344108
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1.172054,
+      "y": 1.172054,
+      "z": 1.172054
+    },
+    "annotation": []
+  }
+}

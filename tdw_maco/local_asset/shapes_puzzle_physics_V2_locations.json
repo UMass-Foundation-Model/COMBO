@@ -1,0 +1,82 @@
+{
+  "0": {
+    "model_name": "V2_partA",
+    "semantic_name": "the_yellow-blue_piece",
+    "position": {
+      "x": 0.1873291,
+      "y": 0.02069983,
+      "z": 0.00058642
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1.172054,
+      "y": 1.172054,
+      "z": 1.172054
+    },
+    "annotation": []
+  },
+  "1": {
+    "model_name": "V2_partB",
+    "semantic_name": "the_red-black_piece",
+    "position": {
+      "x": -0.09396391,
+      "y": 0.02069983,
+      "z": -0.00018157
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1.172054,
+      "y": 1.172054,
+      "z": 1.172054
+    },
+    "annotation": []
+  },
+  "2": {
+    "model_name": "V2_partC",
+    "semantic_name": "the_red-blue_piece",
+    "position": {
+      "x": -0.0001995683,
+      "y": 0.02069983,
+      "z": -0.2344108
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1.172054,
+      "y": 1.172054,
+      "z": 1.172054
+    },
+    "annotation": ["bottom_left_corner", "bottom_right_corner", "bottom_edge"]
+  },
+  "3": {
+    "model_name": "V2_partD",
+    "semantic_name": "the_yellow-purple_piece",
+    "position": {
+      "x": -0.0001995683,
+      "y": 0.02069983,
+      "z": 0.2344108
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1.172054,
+      "y": 1.172054,
+      "z": 1.172054
+    },
+    "annotation": ["top_left_corner", "top_right_corner", "top_edge"]
+  }
+}
