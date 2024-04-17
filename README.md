@@ -12,7 +12,7 @@ Project Website: [COMBO](https://vis-www.cs.umass.edu/combo/)
 
 ### Installation
 
-We recommend to install dependencies using conda.   
+We recommend installing dependencies using conda.   
 
 ```bash  
 conda env create -f environment.yml
@@ -36,3 +36,14 @@ For example, to run experiments with _COMBO_ agents on `TDW-Game`, run the follo
 ## Acknowledgement
 
 This repository is built upon the codebase of [AVDC](https://github.com/flow-diffusion/AVDC) and [LLaVA](https://github.com/haotian-liu/LLaVA).
+
+## Citation
+If you find our work useful, please consider citing:
+```
+@article{zhang2024combo,
+      title={COMBO: Compositional World Models for Embodied Multi-Agent Cooperation}, 
+      author={Hongxin Zhang and Zeyuan Wang and Qiushi Lyu and Zheyuan Zhang and Sunli Chen and Tianmin Shu and Yilun Du and Chuang Gan},
+      year={2024},
+      journal = {arXiv preprint arXiv:2404.10775},
+}
+```
